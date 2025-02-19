@@ -139,7 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="logic.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="utill.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="logic.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="test.h" />
+    <ClInclude Include="utill.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
