@@ -21,7 +21,7 @@
     <ClCompile Include="logic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="utill.cpp">
+    <ClCompile Include="util.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="test.cpp">
@@ -29,7 +29,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="utill.h">
+    <ClInclude Include="util.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="logic.h">
